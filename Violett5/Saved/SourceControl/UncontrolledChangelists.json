@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/home/m4tt/SSD1/Projects_With_Jon/Violett5_JDN/Violett5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/home/m4tt/SSD1/Projects_With_Jon/Violett5_JDN/Violett5/Content/ThirdPerson/Input/Jons_Controller.uasset",
+				"/home/m4tt/SSD1/Projects_With_Jon/Violett5_JDN/Violett5/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"/Users/JDNelson/AI_Dev/Simphoni/Simphoni.App_0.1.1/Violett5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"/Users/JDNelson/AI_Dev/Simphoni/Simphoni.App_0.1.1/Violett5/Content/Violett5/Purple.uasset",
 				"/Users/JDNelson/AI_Dev/Simphoni/Simphoni.App_0.1.1/Violett5/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
